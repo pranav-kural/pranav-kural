@@ -1,5 +1,7 @@
 ### Namaste 🙏
 
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" alt="coding" width="300px"/>
+
 Glad you're visiting my profile 😇
 
 ### About me 👨🏼‍🎓
@@ -32,3 +34,10 @@ Feel free to reach out to me on LinkedIn:  <a href="https://www.linkedin.com/in/
 [![trophy](https://github-profile-trophy.vercel.app/?username=pranav-kural)](https://github.com/pranav-kural/github-profile-trophy)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranav-kural)
+
+### Fav Memes
+<img src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" alt="coding" width="200px" align="left" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzOGM0NzA0NWYyMjNhNjczZGZhYzY5MzRiNjlmYzFhNTM3N2I2YSZjdD1n/13HgwGsXF0aiGY/giphy.gif"  alt="coding" width="300px" align="left" />
+<img src="https://i.chzbgr.com/full/9287719168/hB690CBA3/michael-why-are-you-the-way-you-are-the-office-memes"  alt="coding" width="200px" align="left" />
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/17651852/230208445-314e875d-9678-4236-9c60-b6bced4f12aa.png">
+
