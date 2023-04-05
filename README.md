@@ -29,10 +29,6 @@ Feel free to reach out to me on LinkedIn:  <a href="https://www.linkedin.com/in/
 
 <img src="https://github-readme-stats.vercel.app/api?username=pranav-kural&show_icons=true&theme=nord" alt="pranav-kural" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pranav-kural)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-kural)](https://github.com/pranav-kural/github-profile-trophy)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=pranav-kural)
 
 ### Fav Memes
