@@ -39,5 +39,3 @@ Feel free to reach out to me on LinkedIn:  <a href="https://www.linkedin.com/in/
 <img src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" alt="coding" width="200px" align="left" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzOGM0NzA0NWYyMjNhNjczZGZhYzY5MzRiNjlmYzFhNTM3N2I2YSZjdD1n/13HgwGsXF0aiGY/giphy.gif"  alt="coding" width="300px" align="left" />
 <img src="https://i.chzbgr.com/full/9287719168/hB690CBA3/michael-why-are-you-the-way-you-are-the-office-memes"  alt="coding" width="200px" align="left" />
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/17651852/230208445-314e875d-9678-4236-9c60-b6bced4f12aa.png">
-
