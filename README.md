@@ -13,7 +13,7 @@ Presently, I'm more inclined towards machine learning (especially NLP and CV) an
 ### 👨🏽‍💻 Currently spending time on: 
 - Building automated vector embeddings using LLMs (following [Vector Embeddings](https://partee.io/2022/08/11/vector-embeddings/))
 - Surveying present techniques of Intrusion Detection using AI/ML (reading [Intrusion Detection Using Ensemble Models](https://link.springer.com/chapter/10.1007/978-3-031-23633-4_11))
-- Interested in exploring use of Deep learning for new drug discovery (read [Deep learning helps predict new drug combinations to fight Covid-19](https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924))
+- Writing easy-to-understand articles explaining concepts and latest developments in AI, ML, NLP, cybersecurity and more on my blog: [pkural.ca](https://www.pkural.ca/) 
 
 From building prototype of a social networking and event management web platform for a Montreal based non-profit during a hackathon, to working on developing real-world web-based solutions for locally supported clients while serving at research department in Georgian College, one thing which has always taken a priority for me is to combine hands-on work experience with deep technical soundness to create pragmatic, scalable and efficient systems that serves in the best interest of the client and community.
 
