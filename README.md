@@ -1,25 +1,23 @@
 ### Namaste 🙏
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" alt="coding" width="300px"/>
+<img src="https://www.pkural.ca/assets/images/programmer-gif.gif" align="right" alt="coding" width="300px"/>
 
 Glad you're visiting my profile 😇
 
 ### About me 👨🏼‍🎓
 
-I'm an ambitious technology enthusiast currently primarily studying Computer Science at University of Ottawa. I have prior work experience as Web Developer and IT Operations Analyst at Bank of Montreal.
-
-Presently, I'm more inclined towards machine learning (especially NLP and CV) and its applications in fields like cybersecurity, public policy implementation and medical sciences.
+I'm an ambitious technology enthusiast currently studying Computer Science at the University of Ottawa. Presently, I'm more inclined towards Machine Learning (especially NLP and CV), Generative AI (LLMs, RAG), and Software Development (back-end [REST, GraphQL APIs], front-end [React, Redux]). 
 
 ### 👨🏽‍💻 Currently spending time on: 
-- Building automated vector embeddings using LLMs (following [Vector Embeddings](https://partee.io/2022/08/11/vector-embeddings/))
+- Building RAG-based conversational AI chat agents using LangChain, AWS Bedrock (Titan), and Meta AI's Llama 2 Chat model.
 - Surveying present techniques of Intrusion Detection using AI/ML (reading [Intrusion Detection Using Ensemble Models](https://link.springer.com/chapter/10.1007/978-3-031-23633-4_11))
 - Writing easy-to-understand articles explaining concepts and latest developments in AI, ML, NLP, cybersecurity and more on my blog: [pkural.ca](https://www.pkural.ca/) 
 
-From building prototype of a social networking and event management web platform for a Montreal based non-profit during a hackathon, to working on developing real-world web-based solutions for locally supported clients while serving at research department in Georgian College, one thing which has always taken a priority for me is to combine hands-on work experience with deep technical soundness to create pragmatic, scalable and efficient systems that serves in the best interest of the client and community.
+From building a prototype of a social networking and event management web platform for a Montreal-based non-profit during a hackathon to working on developing real-world web-based solutions for locally supported clients while serving at the research department in Georgian College, one thing which has always taken a priority for me is to combine hands-on work experience with deep technical soundness to create pragmatic, scalable and efficient systems that serve in the best interest of the client and the community.
 
 ### Contact 📬
 
-Please do not hesitate to reach out to me for support, collaboration or work opportunities, I'm always on the lookout for working on meaningful challenges, and learning and growing. Hope you have a good day! 😊
+Please do not hesitate to reach out to me for support, collaboration, or work opportunities, I'm always on the lookout for working on meaningful challenges and learning and growing. Hope you have a good day! 😊
 
 Feel free to reach out to me on LinkedIn:  <a href="https://www.linkedin.com/in/pranavkural/">
   Pranav Kural <img alt="Pranav Kural | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
