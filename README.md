@@ -6,12 +6,17 @@ Glad you're visiting my profile 😇
 
 ### About me 👨🏼‍🎓
 
-I'm an ambitious technology enthusiast and a full-stack software developer with expertise in AI. Presently, I'm more inclined towards Machine Learning (especially NLP and CV), Generative AI (LLMs, RAG), and Software Development (back-end [REST, CI/CD], front-end [React, Redux]). 
+I'm an ambitious technology enthusiast and a full-stack software developer. I love solving complex problems programmatically, and designing and building pragmatic, efficient, and scalable systems. I'm more of a generalist and a philomath with expertise and skills across a wide variety of domains; basically, I'll learn anything that it takes to solve a problem. 
+
+**My Forte**
+
+**Front-end** (React, Next.js, Vue, Material Design, Tailwind CSS), **Databases** (MySQL, PostgreSQL, MongoDB, Cloud Firestore), **Back-end** (System design, automation, CI/CD, testing, API development and monitoring, observability), **Mobile** (Android, React Native), **Generative AI** (RAG, LangChain, Vertex AI, Azure AI, OpenAI API), **Machine Learning** (SML, Neural Networks, Computer Vision, NLP, NLU), **Data** (Pandas, Numpy, Matplotlib), **Cloud** (Google Cloud, AWS), **Programming Languages** (TypeScript, JavaScript, Python, Go, Java, C++).
 
 ### 👨🏽‍💻 Currently spending time on: 
 - [QvikChat](https://qvikchat.pkural.ca): Building a powerful open source framework to build and deploy secure, performant, and reliable production-ready **chat services** with advanced features and safety guardrails, quickly & efficiently.
 - [Intento](https://intento.pkural.ca): Developing an simple-to-use open source framework to build and deploy intent recognition services powered by **Large Language Models (LLM)**.
-- [pkural.ca Blog](https://www.pkural.ca/blog/blog.html): Writing easy-to-understand articles explaining concepts and latest developments in Conversational AI, Generative AI, ML, RAG, and more.
+- [Sustentia](https://www.pkural.ca/projects/#sustentia): Sustainability-oriented and AI-powered app to help both households and commercial users manage their inventory more smartly: optimizing resource utilization, reducing wastage from expiration, and tracking consumption.
+- [pkural.ca Blog](https://www.pkural.ca/blog/blog.html): Writing easy-to-understand articles explaining concepts and latest developments in the software world.
 
 From building a prototype of a social networking and event management web platform for a Montreal-based non-profit during a hackathon to working on developing powerful open-source conversational AI frameworks to empower developers around the world, one thing that has always taken a priority for me is to combine hands-on work experience with deep technical soundness to create pragmatic, scalable and efficient systems that serve in the best interest of the client and the community.
 
